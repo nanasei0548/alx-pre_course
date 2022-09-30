@@ -1,2 +1,12 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+echo "The school is open"
+#!/bin/bash
+=======
+#!/bin/bash
+echo "School"
+>>>>>>> 04644164bcf02c27a8367bfbc230cca6ee2e78e4
+=======
 echo "The school is opened"
 #!/bin/bash
+>>>>>>> update_script
